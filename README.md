@@ -4,5 +4,6 @@ my python file help you to extract all email from a texte file toa best used lis
 
 # How to use 
 
-open a terminal 
+open a terminal
+
 cat mail.txt | ./Extract_Email.py
