@@ -10,7 +10,7 @@ Open a terminal
 
 To print a vertical List_mails:
 
-    ./Extract_Email.py -i inputmails.txt - outputmails.txt
+    ./Extract_Email.py -i Your_inputmails.txt -o Your_outputmails.txt
 
 To print a List_mails Separated by comma:
 
