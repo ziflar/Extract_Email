@@ -4,14 +4,14 @@ my python file help you to extract all email from a texte file toa best used lis
 
 # How to use 
 
-open a terminal
+Open a terminal
 
-chmod +x Extract_Email.py
+    chmod +x Extract_Email.py
 
 To print a vertical List_mails:
 
-  ./Extract_Email.py -i inputmails.txt - outputmails.txt
+    ./Extract_Email.py -i inputmails.txt - outputmails.txt
 
 To print a List_mails Separated by comma:
 
-  ./Extract_Email.py -i inputmails.txt - outputmails.txt -f ,
+    ./Extract_Email.py -i inputmails.txt - outputmails.txt -f ,
