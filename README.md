@@ -1,6 +1,6 @@
 # Extract_Email
 
-This python Script help us to extract a mailing list from a text file to best useful mail's list
+This python Script help us to extract a email's from a text file to a best useful mail's list
  
 # How to use 
 
